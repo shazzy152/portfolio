@@ -13,7 +13,7 @@ import {
     nextjs,
     konf,
     hme,
-    tesla,
+    abg,
     betterco,
     osm,
     crypto,
@@ -96,6 +96,7 @@ import {
       icon: hme,
       iconBg: "#383E56",
       date: "Jan 2019 - June 2020",
+      link:"https://www.healthifyme.com/in/",
       points: [
         "End-to-end ownership of accuracy and quality of Ria, a AI powered chatbot health assistant.",
         "Served as the POC between the data ops team and content-engineering-data science teams.",
@@ -119,6 +120,7 @@ import {
       icon: betterco,
       iconBg: "#383E56",
       date: "May 2021 - Aug 2021",
+      link:"https://www.thebetterconstruction.com/",
       points: [
         "Worked on building the customer facing website.",
         "Integrated email trigger system for lead generation by building a nodeJS server running Nodemailer.",
@@ -131,12 +133,26 @@ import {
       icon: konf,
       iconBg: "#E6DEDD",
       date: "Aug 2021 - Sept 2022",
+      link:"https://konfhub.com/",
       points: [
         "Worked on konfhub's admin client dashboard (React), customer facing application (NextJS), and quizhub application.",
         "Transfer to Azuga as a front end developer consultant from January 2022 - August 2022",
         "At Azuga, created internal token manager system (creds.azugaworks.com) for employees to easily login to the app for multiple environments and subsequent testing.",
         "Worked on Azuga works application (NextJS) - contributed to re-design of the settings module and handled overall UI tasks.",
         "Daily tasks included taking part in planning and design meetings, development and testing of UI components."
+      ],
+    },
+    {
+      title: "Software Engineer",
+      company_name: "Avis Budget Group",
+      icon: abg,
+      iconBg: "#383E56",
+      date: "April 2023 - Present",
+      link:"https://avisbudgetgroup.com/",
+      points: [
+        "Working on converting Budget.com from Angular 1.6 + AEM implementation -> React + AEM SPA as part of ABG's Digital Transormation Drive.",
+        "Building and contributing to multiple internal applications across value streams.",
+        "Since ABG's india wing (India Build Center) is hiring extensively, I am actively involved in the interview and onboarding process for new engineers.",
       ],
     },
   ];

@@ -19,7 +19,7 @@ import tailwind from "./tech/tailwind.png";
 import konf from "./company/konf.png";
 import betterco from "./company/betterco.png";
 import hme from "./company/hme.png";
-import tesla from "./company/tesla.png";
+import abg from "./company/abg.png";
 
 import osm from "./osm.png";
 import crypto from "./crypto.png";
@@ -45,7 +45,7 @@ export {
   konf,
   betterco,
   hme,
-  tesla,
+  abg,
   osm,
   crypto,
   today,
