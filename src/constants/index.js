@@ -151,8 +151,9 @@ import {
       link:"https://avisbudgetgroup.com/",
       points: [
         "Working on converting Budget.com from Angular 1.6 + AEM implementation -> React + AEM SPA as part of ABG's Digital Transormation Drive.",
-        "Building and contributing to multiple internal applications across value streams.",
-        "Since ABG's india wing (India Build Center) is hiring extensively, I am actively involved in the interview and onboarding process for new engineers.",
+        "Was given responsibility to lead work on Budget.com’s Locations Module along with a team comprising of junior developers (https://www.budget.com/en/locations/find-a-location)",
+        "Responsible for building an internal tool for ABG’s real estate team to manage their real estate holdings across United States - to be used by senior leadership for quarterly board meetings.",
+        "Currently working on ABG’s Partner connect applications - responsible for building corporate partners such as Google, Kohler, Rivian and many more."
       ],
     },
   ];
